@@ -2,7 +2,7 @@ import React from 'react';
 
 import Link from 'next/link';
 
-function ScreenSaverExercise() {
+function ScreenSaverIndex() {
   return (
     <main>
       <p>Choose your color:</p>
@@ -21,4 +21,4 @@ function ScreenSaverExercise() {
   );
 }
 
-export default ScreenSaverExercise;
+export default ScreenSaverIndex;
